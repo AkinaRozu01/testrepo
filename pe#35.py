@@ -1,4 +1,4 @@
-ffrom random import randint
+from random import randint
 
 val = randint(2, 4000000)
 number = list(str(val))
